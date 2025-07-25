@@ -18,14 +18,16 @@ This project is an OpenGL-based 3D scene renderer, originally developed in Octob
 ### 2. Design Pattern Implementation
 
 - **Apply design patterns:**  
-  Implement Factory and Singleton patterns where appropriate for resource managers.
+  Implement Octree Spatial Partitioning and Code Quality Improvements
 - **Benefits:**  
-  - Promotes code reuse and scalability  
-  - Simplifies future enhancements
+  - Added octree-based spatial partitioning for efficient scene object culling and improved rendering performance.
+  - Refactored code to initialize all variables and struct members, reducing potential bugs and compiler warnings.
+  - Moved large local arrays to heap allocation to enhance stability and portability.
+  - Overall, these changes make the project more robust, maintainable, and performant.
 
 ### 3. Enhanced Documentation
 
-- **Add in-line comments and Doxygen-style documentation:**  
+- **Add in-line comments documentation:**  
   Improve code readability and maintainability for future contributors.
 
 ### 4. Database Integration (Planned)
