@@ -51,7 +51,6 @@ This document is the initial plan describing how I meet the ePortfolio requireme
 
 [Hec Maldonado Code Review ](https://youtu.be/F6xVm5Z9eBU "Software Hec Maldonado Code Review")<br/>
 
-
 I perform a code review in a video for each artifact selected in my initial plan. In this code review, I analyze existing code for weaknesses, limitations, and vulnerabilities and explain my plan for enhancements. These code reviews are a walk through of existing code and planned enhancements, and it demonstrates the following critical elements for each category:
 
 - Existing functionality: A detailed walk through of the existing code focused on the features and function of the current code.
