@@ -21,7 +21,7 @@ My primary artifact is a **3D Scene Manager application** built in C++ with Open
 
 [Journal: Self-Introduction](Journals/Module%201%20Self%20Introduction.pdf "Journal: Self-Introduction")
 
-This document is a self-introduction journal for the CS-499 Computer Science Capstone course. It outlines the author’s personal and professional background, including experience as an FDNY EMT, hospital security team lead, and computer science student. The paper connects these experiences to the author’s interest and growth in computer science, highlighting relevant skills, academic achievements, and future goals.
+This document is a self-introduction journal for the CS-499 Computer Science Capstone course. It outlines my personal and professional background, including experience as an FDNY EMT, hospital security team lead, and computer science student. The paper connects these experiences to my interest and growth in computer science, highlighting relevant skills, academic achievements, and future goals.
 
 [Journal: Career Choice](Journals/Module%204%20Journal%20Career%20Choice.pdf "Journal: Career Choice")
 
