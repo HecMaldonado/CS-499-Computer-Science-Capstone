@@ -49,9 +49,8 @@ This document is the initial plan describing how I meet the ePortfolio requireme
 
 ### Code Review
 
-## Code Review Video
-
-[![Hec Maldonado Code Review](assets/YT%20Thumbnail.webp)](https://youtu.be/F6xVm5Z9eBU)
+[![Hec Maldonado Code Review](assets/YT%20Thumbnail.webp)](https://youtu.be/F6xVm5Z9eBU)<br>
+[Hec Maldonado Code Review](https://img.youtube.com/vi/F6xVm5Z9eBU/0.jpg)
 
 
 
