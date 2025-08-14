@@ -27,7 +27,7 @@ This document is a self-introduction journal for the CS-499 Computer Science Cap
 
 This document is a career reflection journal written for the CS-499 Capstone. It discusses how my career interests have evolved throughout the computer science program, shifting from a focus on software development to a growing interest in data science and machine learning. This journal also covers research into career options, plans for further education or certification, and provides a status update on my ePortfolio artifacts and enhancements in software design, algorithms, and databases.
 
-[Journal: Capstone Reflection](Journals/Module%208%20Self%20Reflection.pdf "Journal: Capstone Reflection")
+[Journal: Capstone/Self Reflection](Journals/Module%208%20Self%20Reflection.pdf "Journal: Capstone Reflection")
 
 This document is a professional self-assessment completed for the CS-499 Capstone. It reflects on my growth as a computer science student and professional, focusing on the skills developed through the enhancement of a 3D Scene Manager application. The assessment highlights achievements in software design, algorithms, and databases, and discusses the adaptability, professionalism shown while developing this project, and future aspirations in the field of computer science.
 
