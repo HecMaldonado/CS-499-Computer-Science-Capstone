@@ -64,18 +64,24 @@ I perform a code review in a video for each artifact selected in my initial plan
 
 [Software Design and Engineering Narrative- Modularity Update](Journals/Module%203%20Milestone%20Two%20Narrative.pdf "Software Design and Engineering - Modularity Update")
 
-This document describes the enhancement of a C++ OpenGL 3D scene renderer, focusing on improved modularity, maintainability, and software engineering practices. It highlights the use of design patterns, code refactoring, and documentation to create a more robust and collaborative codebase.
+This document describes the enhancement of a C++ OpenGL 3D scene renderer, focusing on improved modularity, maintainability, and software engineering practices. It highlights the use of design patterns, code refactoring, and documentation to create a more robust and collaborative codebase. (See Milestone 1/2 Updated Files)
 
 ### Algorithms and Data Structure Enhancement
 [Algorithms and Data Structure Narrative - Octree Implementation](Journals/Module%204%20Milestone%20Three%20Narrative.pdf "Algorithms and Data Structure - Octree Implementation")
 
-This document details the implementation of octree-based spatial partitioning in a 3D scene management system. It demonstrates the application of advanced algorithms and data structures to optimize rendering performance and code quality, reflecting growth in problem-solving and software engineering.
+[Octree.cpp](Milestone%203%20Updated%20Files/Octree.cpp)
+[Octree.h](Milestone%203%20Updated%20Files/Octree.h)
+
+This document details the implementation of octree-based spatial partitioning in a 3D scene management system. It demonstrates the application of advanced algorithms and data structures to optimize rendering performance and code quality, reflecting growth in problem-solving and software engineering. (See Milestone 3 Updated Files)
 
 ### Databases Enhancement
-
 [Databases Narrative - Save/Load State JSON-Based](Journals/Module%205%20Milestone%20Four%20Narrative.pdf "Databases - Save/Load State JSON-Based")
 
-This document explains the addition of JSON-based save and load functionality for scene objects and camera state in a C++ OpenGL 3D scene manager. It showcases skills in modular design, data persistence, and integrating new features into an existing software system to enhance usability and maintainability.
+[JsonDatabase.cpp](Milestone%204%20Updated%20Files/JsonDatabase.cpp)
+[JsonDatabase.h](Milestone%204%20Updated%20Files/JsonDatabase.h)
+[nlohman-json.json](Milestone%204%20Updated%20Files/nlohmann-json.json)
+
+This document explains the addition of JSON-based save and load functionality for scene objects and camera state in a C++ OpenGL 3D scene manager. It showcases skills in modular design, data persistence, and integrating new features into an existing software system to enhance usability and maintainability. (See Milestone 4 Updated Files)
 
 ---
 
