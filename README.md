@@ -66,7 +66,7 @@ I perform a code review in a video for each artifact selected in my initial plan
 
 ### Software Design and Engineering Enhancement
 
-[Software Design and Engineering Narrative- Modularity Update](Journals/Module%203%20Milestone%20Two%20Narrative.pdf "Software Design and Engineering - Modularity Update")
+[Software Design and Engineering Narrative - Modularity Update](Journals/Module%203%20Milestone%20Two%20Narrative.pdf "Software Design and Engineering - Modularity Update")
 
 This document describes the enhancement of a C++ OpenGL 3D scene renderer, focusing on improved modularity, maintainability, and software engineering practices. It highlights the use of design patterns, code refactoring, and documentation to create a more robust and collaborative codebase. (See Milestone 1/2 Updated Files)
 
