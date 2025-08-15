@@ -1,6 +1,7 @@
-# 
 
-![## CS499 Computer Science Capstone<br>August, 2025](https://github.com/HecMaldonado/CS-499-Computer-Science-Capstone/blob/99c8081839ff2a54ea95a36bf24ddcf5ac97b0f3/assets/banner%20cs%20499%20github.png)
+
+![Banner](assets/banner%20cs%20499%20github.png)
+
 
 ---
 [![Generic badge](https://img.shields.io/badge/language-C++-cyan.svg)](https://www.cplusplus.com/)
